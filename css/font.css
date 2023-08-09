@@ -12,7 +12,7 @@
     font-family: 'Helvetica Neue LT Pro-Light';
     src: url('https://github.com/nazh0q/Schoox_ZH_font/blob/main/fonts/Linotype%20-%20HelveticaNeueLTPro-Lt.otf') format('opentype'),
          url('https://nazh0q.github.io/Schoox_ZH_font/fonts/Linotype%20-%20HelveticaNeueLTPro-Lt.woff') format('woff');
-    font-weight: bold;
+    font-weight: normal;
     font-style: normal;
 }
 
