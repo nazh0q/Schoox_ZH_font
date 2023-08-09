@@ -1,0 +1,26 @@
+/* Bold */
+@font-face {
+    font-family: 'Helvetica Neue LT Pro-Bold';
+    src: url('https://github.com/nazh0q/Schoox_ZH_font/blob/main/fonts/Linotype%20-%20HelveticaNeueLTPro-Bd.otf') format('opentype'),
+         url('https://github.com/nazh0q/Schoox_ZH_font/blob/main/fonts/Linotype%20-%20HelveticaNeueLTPro-Bd.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Light */
+@font-face {
+    font-family: 'Helvetica Neue LT Pro-Light';
+    src: url('https://github.com/nazh0q/Schoox_ZH_font/blob/main/fonts/Linotype%20-%20HelveticaNeueLTPro-Lt.otf') format('opentype'),
+         url('https://github.com/nazh0q/Schoox_ZH_font/blob/main/fonts/Linotype%20-%20HelveticaNeueLTPro-Lt.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Roman */
+@font-face {
+    font-family: 'Helvetica Neue LT Pro-Roman';
+    src: url('https://github.com/nazh0q/Schoox_ZH_font/blob/main/fonts/Linotype%20-%20HelveticaNeueLTPro-Roman.otf') format('opentype'),
+         url('https://github.com/nazh0q/Schoox_ZH_font/blob/main/fonts/Linotype%20-%20HelveticaNeueLTPro-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
