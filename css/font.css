@@ -1,6 +1,6 @@
 /* Bold */
 @font-face {
-    font-family: 'Helvetica Neue LT Pro-Bold';
+    font-family: 'Helvetica Neue LT Pro';
     src: url('https://github.com/nazh0q/Schoox_ZH_font/blob/main/fonts/Linotype%20-%20HelveticaNeueLTPro-Bd.otf') format('opentype'),
          url('https://nazh0q.github.io/Schoox_ZH_font/fonts/Linotype%20-%20HelveticaNeueLTPro-Bd.woff') format('woff');
     font-weight: normal;
@@ -9,7 +9,7 @@
 
 /* Light */
 @font-face {
-    font-family: 'Helvetica Neue LT Pro-Light';
+    font-family: 'Helvetica Neue LT Pro';
     src: url('https://nazh0q.github.io/Schoox_ZH_font/fonts/Linotype%20-%20HelveticaNeueLTPro-Lt.otf') format('opentype'),
          url('https://nazh0q.github.io/Schoox_ZH_font/fonts/Linotype%20-%20HelveticaNeueLTPro-Lt.woff') format('woff');
     font-weight: normal;
@@ -18,7 +18,7 @@
 
 /* Roman */
 @font-face {
-    font-family: 'Helvetica Neue LT Pro-Roman';
+    font-family: 'Helvetica Neue LT Pro';
     src: url('https://github.com/nazh0q/Schoox_ZH_font/blob/main/fonts/Linotype%20-%20HelveticaNeueLTPro-Roman.otf') format('opentype'),
          url('https://nazh0q.github.io/Schoox_ZH_font/fonts/Linotype%20-%20HelveticaNeueLTPro-Roman.woff') format('woff');
     font-weight: normal;
